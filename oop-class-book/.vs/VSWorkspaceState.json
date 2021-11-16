@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BookClass",
+    "\\BookClass.Tests",
+    "\\VerificationService",
+    "\\VerificationService.Tests"
+  ],
+  "SelectedNode": "\\VerificationService.Tests\\UnitTest1.cs",
+  "PreviewInSolutionExplorer": false
+}
